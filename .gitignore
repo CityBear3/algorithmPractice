@@ -1,0 +1,2 @@
+# ignore .idea folder because I don't predict that this project forked by other people.
+.idea/
